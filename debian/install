@@ -1,0 +1,2 @@
+cyjan.list etc/apt/sources.list.d/
+mrcyjanek-archive-keyring.gpg etc/apt/trusted.gpg.d/
