@@ -14,9 +14,9 @@ To install my repo, execute the following commands
 # List of packages
 
 <!-- architectures: amd64, arm64, i386, armhf -->
-| Name \| Status | Supported Architectures      |
-| -------------- | ---------------------------- |
-| [![Build Status](https://ci.mrcyjanek.net/badge/build-btnet.svg)](https://git.mrcyjanek.net/mrcyjanek/btnet) | amd64, arm64, i386, armhf |
-[![Build Status](https://ci.mrcyjanek.net/badge/build-jwapi.svg)](https://git.mrcyjanek.net/mrcyjanek/jwapi/) | amd64, arm64, i386, armhf |
-| [![Build Status](https://ci.mrcyjanek.net/badge/build-phosh_screenshot.svg)](https://git.mrcyjanek.net/mrcyjanek/phosh-screenshot/) | all |
-| [![Build Status](https://ci.mrcyjanek.net/badge/build-cyjan_repo.svg)](https://git.mrcyjanek.net/mrcyjanek/mrcyjanekrepo/) | all |
+| Name \| Status | Supported Architectures      | Provides |
+| -------------- | ---------------------------- | -------- |
+| [![Build Status](https://ci.mrcyjanek.net/badge/build-btnet.svg)](https://git.mrcyjanek.net/mrcyjanek/btnet) | amd64, arm64, i386, armhf | btnet, btnet-createsite, btnet-pgpgen |
+[![Build Status](https://ci.mrcyjanek.net/badge/build-jwapi.svg)](https://git.mrcyjanek.net/mrcyjanek/jwapi/) | amd64, arm64, i386, armhf | jwstudy |
+| [![Build Status](https://ci.mrcyjanek.net/badge/build-phosh_screenshot.svg)](https://git.mrcyjanek.net/mrcyjanek/phosh-screenshot/) | all | phosh-screenshot |
+| [![Build Status](https://ci.mrcyjanek.net/badge/build-cyjan_repo.svg)](https://git.mrcyjanek.net/mrcyjanek/mrcyjanekrepo/) | all |  |
