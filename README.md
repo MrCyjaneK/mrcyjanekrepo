@@ -17,7 +17,7 @@ To install my repo, execute the following commands
 <!-- architectures: amd64, arm64, i386, armhf -->
 | Name \| Status | Supported Architectures      | Provides |
 | -------------- | ---------------------------- | -------- |
-| [![Build Status](https://ci.mrcyjanek.net/badge/build-squizit-server.svg)](https://git.mrcyjanek.net/mrcyjanek/squizit-server) | amd64, arm64, i386, armhf | squizit |
+| [![Build Status](https://ci.mrcyjanek.net/badge/build-squizit-server.svg)](https://git.mrcyjanek.net/mrcyjanek/squizit-server) | amd64, arm64, i386, armhf | squizit-server |
 | [![Build Status](https://ci.mrcyjanek.net/badge/build-squizit.svg)](https://mrcyjanek.net/projects/squizit/) | amd64, arm64, i386, armhf | squizit |
 | [![Build Status](https://ci.mrcyjanek.net/badge/build-btnet.svg)](https://mrcyjanek.net/projects/btnet/) | amd64, arm64, i386, armhf | btnet, btnet-createsite, btnet-pgpgen |
 | [![Build Status](https://ci.mrcyjanek.net/badge/build-tor_file_server.svg)](https://mrcyjanek.net/projects/simple-tor-file-server) | amd64, arm64, i386, armhf | tor-file-server |
