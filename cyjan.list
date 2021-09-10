@@ -1,2 +1,5 @@
-# This file is mabaged by mrcyjanek-repo package.
-deb [signedby=/usr/share/keyrings/mrcyjanek-archive-keyring.gpg] https://static.mrcyjanek.net/laminarci/apt-repository/ /
+# This file is managed by mrcyjanek-repo package.
+deb [signedby=/usr/share/keyrings/mrcyjanek-archive-keyring.gpg] https://repo.mrcyjanek.net/ default
+# deb [signedby=/usr/share/keyrings/mrcyjanek-archive-keyring.gpg] https://repo.mrcyjanek.net/ bullseye
+# deb [signedby=/usr/share/keyrings/mrcyjanek-archive-keyring.gpg] https://repo.mrcyjanek.net/ focal
+# Visit https://git.mrcyjanek.net/mrcyjanek/mrcyjanekrepo for complete list.

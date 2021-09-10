@@ -1,0 +1,5 @@
+image: mrcyjanek/goprod:latest
+script:
+ - checkinstall --type=debian --install=no --default --pkgname=mrcyjanek-repo --pkgversion=2.0 --arch=all --pakdir=deb --maintainer=cyjan@mrcyjanek.net
+ - mkdir -p /apt/default || true
+ - cp deb/*.deb /apt/default/
